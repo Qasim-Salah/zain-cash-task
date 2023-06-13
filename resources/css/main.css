@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    background-color: #f8f9fa;
+}
+
+.card {
+    width: 1000px; /* Adjust the width as desired */
+}
